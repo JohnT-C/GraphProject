@@ -1,4 +1,4 @@
-# GraphProjec
+# GraphProject
 This project is an implementation of a graph data structure
 It has the following functions:
   Graph.add() which takes in data and a list of connections and establishes it as a node
